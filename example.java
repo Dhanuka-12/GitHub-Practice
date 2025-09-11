@@ -4,6 +4,10 @@ class Student{
 	public void name(String name){
 		System.out.println("Your name is "+name);
 	}
+	
+	public void id(){
+		System.out.println("Your Id is : ");
+	}
 }
 
 class Main{
