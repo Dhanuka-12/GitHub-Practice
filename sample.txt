@@ -1,8 +1,16 @@
+//JavaScript
+
 console.log('hello world')
 
-///////////////
+//Python
 
 print("hello world");
 
 
+//Java
 System.out.println("Hello world");
+
+//C
+printf("hello world");
+
+
