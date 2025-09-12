@@ -1,8 +1,0 @@
-console.log('hello world')
-
-///////////////
-
-print("hello world");
-
-
-System.out.println("Hello world");
